@@ -38,8 +38,7 @@ export default {
     //获取商家数据
     getSeller() {
       this.$http.get(url).then(res => {
-        this.seller = res.body.seller;
-        
+        this.seller = res.body.seller;        
       });
     }
   },
