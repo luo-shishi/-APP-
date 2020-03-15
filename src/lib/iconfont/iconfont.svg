@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="jianshaoanniu_dianji" unicode="&#58882;" d="M512 896a512 512 0 1 0 0-1024 512 512 0 0 0 0 1024z m-192-448a64 64 0 1 1 0-128h384a64 64 0 0 1 0 128H320z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="zengjiaanniu_dianji" unicode="&#58890;" d="M448 448H320a64 64 0 1 1 0-128h128v-128a64 64 0 0 1 128 0v128h128a64 64 0 0 1 0 128h-128V576a64 64 0 1 1-128 0v-128z m64 448a512 512 0 1 0 0-1024 512 512 0 0 0 0 1024z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
